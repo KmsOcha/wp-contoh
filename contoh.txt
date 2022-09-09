@@ -1,3 +1,4 @@
 -contoh
 -hapuss contoh 2
+--contoh branch 2
 -contoh branch 
